@@ -190,4 +190,7 @@ Administrators can manage the legal glossary by:
                            │
              ┌─────────────┼─────────────┐
              ▼             ▼             ▼
-         Analytics      Users        Glossary
+         Analytics      Users        Glossary 
+
+
+
