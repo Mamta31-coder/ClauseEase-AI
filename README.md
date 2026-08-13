@@ -634,9 +634,12 @@ The following enhancements could further improve the functionality and usability
 ---
 ## 👩‍💻 Author
 
-### Mamta Choudhary
+### Mamta Chaudhary
 
 🎓 **BSc Data Science & Artificial Intelligence**
+
+📧 **Email:** 
+choudharymamta1003@gmail.com
 
 **Project:** ClauseEase AI  
 **Description:** AI-Based Contract Language Simplifier
