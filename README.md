@@ -1,13 +1,14 @@
 # ⚖️ ClauseEase AI
 
-### AI-Based Contract Language Simplifier
+## AI-Based Contract Language Simplifier
 
 > **Simplify. Understand. Manage Complex Contracts with the Power of AI.**
 
 ClauseEase AI is a web-based AI application that helps users understand complex legal and contractual documents by simplifying legal language and identifying important legal terms.
+
 ---
 
-### 📌 Project Overview
+## 📌 Project Overview
 
 ClauseEase AI provides an end-to-end platform for analyzing and simplifying legal and contractual documents.
 
@@ -18,7 +19,7 @@ The application generates simplified contract text and identifies important lega
 The system also includes a dedicated administrative dashboard where authorized administrators can manage users, maintain the legal glossary, and view application-level analytics such as registered users, uploaded contracts, and simplification statistics.
 ---
 
-### 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Simplify complex contractual language
 - Help non-legal users understand legal documents
@@ -194,47 +195,75 @@ Administrators can manage the legal glossary by:
 ```
 ---
 
-## 🖥️ Application Screenshots
+# 🖥️ Application Screenshots
 
-### 🏠 Welcome Page
+# 🏠 Welcome Page
 
 ![ClauseEase AI Welcome Page](screenshots/home.png)
 
-### 🔐 Login
+
+---
+
+# 🔐 Login
 
 ![ClauseEase AI Login](screenshots/login.png)
 
-### 📝 Registration
+
+---
+
+# 📝 Registration
 
 ![ClauseEase AI Registration](screenshots/register.png)
 
-### 📄 Contract Simplifier
+
+---
+
+# 📄 Contract Simplifier
 
 ![ClauseEase AI Contract Simplifier](screenshots/simplify.png)
 
-### 🤖 AI Simplification Result
+
+---
+
+# 🤖 AI Simplification Result
 
 ![ClauseEase AI Result](screenshots/result.png)
 
-### 📊 Additional Result
+
+---
+
+# 📊 Additional Result
 
 ![ClauseEase AI Additional Result](screenshots/result2.png)
 
-### 📤 Upload Contract
+
+---
+
+# 📤 Upload Contract
 
 ![ClauseEase AI Upload](screenshots/upload.png)
 
-### 👤 User Profile
+
+---
+
+# 👤 User Profile
 
 ![ClauseEase AI Profile](screenshots/profile.png)
 
-### 👨‍💼 Admin Dashboard
+
+---
+
+# 👨‍💼 Admin Dashboard
 
 ![ClauseEase AI Admin Dashboard](screenshots/admin.png)
 
-### 👥 User Management
+
+---
+
+# 👥 User Management
 
 ![ClauseEase AI User Management](screenshots/users.png)
+
 
 ---
 
