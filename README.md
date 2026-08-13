@@ -7,7 +7,7 @@
 ClauseEase AI is a web-based AI application that helps users understand complex legal and contractual documents by simplifying legal language and identifying important legal terms.
 ---
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 ClauseEase AI provides an end-to-end platform for analyzing and simplifying legal and contractual documents.
 
@@ -18,7 +18,7 @@ The application generates simplified contract text and identifies important lega
 The system also includes a dedicated administrative dashboard where authorized administrators can manage users, maintain the legal glossary, and view application-level analytics such as registered users, uploaded contracts, and simplification statistics.
 ---
 
-## 🎯 Project Objectives
+### 🎯 Project Objectives
 
 - Simplify complex contractual language
 - Help non-legal users understand legal documents
@@ -144,7 +144,6 @@ Administrators can manage the legal glossary by:
 ---
 
 ## 🔄 Project Workflow
---- 
 
 ```text
                          ClauseEase AI
@@ -194,8 +193,6 @@ Administrators can manage the legal glossary by:
          Analytics      Users        Glossary
 ```
 ---
-# Application Screenshots
----
 
 ## 🖥️ Application Screenshots
 
@@ -238,6 +235,8 @@ Administrators can manage the legal glossary by:
 ### 👥 User Management
 
 ![ClauseEase AI User Management](screenshots/users.png)
+
+---
 
 ## 🛠️ Technology Stack
 
@@ -358,7 +357,6 @@ Administrators can manage the legal glossary by:
 
 ---
 ## 📁 Project Structure
----
 
 ```text
 ClauseEase-AI/
@@ -401,7 +399,6 @@ ClauseEase-AI/
 ```
 ---
 ## 🚀 Installation & Setup
----
 
 ### 1. Clone the Repository
 
@@ -473,7 +470,6 @@ docker-compose down
 
 ---
 ## 🧠 Skills Demonstrated
---- 
 
 ### 💻 Programming & Web Development
 - Python
@@ -531,7 +527,7 @@ docker-compose down
 
 ---
 ## 📈 Project Outcome
----
+
 
 ClauseEase AI demonstrates the practical application of **Artificial Intelligence, Natural Language Processing, and Web Development** in the legal domain.
 
@@ -576,7 +572,6 @@ Overall, ClauseEase AI demonstrates how **AI and NLP techniques can be integrate
 
 ---
 ## 🔮 Future Enhancements
----
 
 The following enhancements could further improve the functionality and usability of ClauseEase AI:
 
@@ -609,7 +604,6 @@ The following enhancements could further improve the functionality and usability
 
 ---
 ## 👩‍💻 Author
---- 
 
 ### Mamta Choudhary
 
