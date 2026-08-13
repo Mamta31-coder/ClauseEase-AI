@@ -17,6 +17,7 @@ Users can register, securely log in, upload a contract or paste contract text, s
 The application generates simplified contract text and identifies important legal terminology to make complex documents easier to understand.
 
 The system also includes a dedicated administrative dashboard where authorized administrators can manage users, maintain the legal glossary, and view application-level analytics such as registered users, uploaded contracts, and simplification statistics.
+
 ---
 
 ## 🎯 Project Objectives
