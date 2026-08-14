@@ -642,6 +642,8 @@ The following enhancements could further improve the functionality and usability
 📧 **Email:** 
 choudharymamta1003@gmail.com
 
+🔗 **LinkedIn:** https://www.linkedin.com/in/mamta-chaudhary-964128353/
+
 **Project:** ClauseEase AI  
 **Description:** AI-Based Contract Language Simplifier
 
